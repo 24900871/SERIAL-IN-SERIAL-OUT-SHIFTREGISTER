@@ -1,4 +1,4 @@
-# EX : 6 SERIAL IN SERIAL OUT SHIFTREGISTER
+# EX : 6 IMPLEMENTION OF SERIAL IN SERIAL OUT SHIFTREGISTER
 
 **AIM:**
 
@@ -53,7 +53,7 @@ RegisterNumber:24900871
 
 **TIMING DIGRAMS FOR SISO Shift Register**
 
-![image](https://github.com/user-attachments/assets/ace71816-773d-4cda-8967-5ac6a00ecffb)
+![image](https://github.com/user-attachments/assets/1be3194c-428f-4103-b412-b74cab5ae3a4)
 
 **RESULTS**
 
