@@ -1,3 +1,7 @@
+Developed by: JOTHIMANI P
+
+RegisterNumber:24900871
+
 # EX : 6 IMPLEMENTION OF SERIAL IN SERIAL OUT SHIFTREGISTER
 
 **AIM:**
@@ -38,9 +42,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 **PROGRAM**
 
 
-Developed by: JOTHIMANI P
 
-RegisterNumber:24900871
 
 ![image](https://github.com/user-attachments/assets/de2abe1e-4e21-44a5-8fcf-4f0db16db1c8)
 
